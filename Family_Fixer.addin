@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Family_Fixer "Family Fixer 18"</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2018\Family_Fixer\Family_Fixer\bin\Release\Family_Fixer.dll</Assembly>
+    <AddInId>7ce9bc14-5779-41cd-af5e-7a3346768f21</AddInId>
+    <FullClassName>Family_Fixer.Ribbon_FamFix</FullClassName>
+    <VendorId>Canard Digérateur</VendorId>
+    <VendorDescription>Nik Mark Mulconray, "Canard Digérateur" ,info@peddleThorp.com.au/</VendorDescription>
+  </AddIn>
+</RevitAddIns>

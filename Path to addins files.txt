@@ -1,0 +1,3 @@
+Place all the addin files and project file in this folder please...
+
+C:\ProgramData\Autodesk\Revit\Addins\2018\
